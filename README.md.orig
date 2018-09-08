@@ -1,0 +1,11 @@
+# website
+This is modified by MJ
+Added in the example branch.....sperated from master branch
+
+<<<<<<< HEAD
+added on the local web browser
+=======
+now adding this in update-readme branch
+
+adding this in local update-readme branch
+>>>>>>> update-readme
