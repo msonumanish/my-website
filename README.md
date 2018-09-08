@@ -5,3 +5,4 @@ Added in the example branch.....sperated from master branch
 update made on master on github before rebase
 
 checking development on local
+git and github together
